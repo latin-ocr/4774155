@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./4774155_0003.png"; bbox 0 0 3004 3862; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 462 386 2047 707">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 462 386 2047 707">
+     <span class='ocr_line' id='line_1_1' title="bbox 462 386 2047 533; baseline 0 -29"><span class='ocrx_word' id='word_1_1' title='bbox 462 386 1221 508; x_wconf 85' lang='lat' dir='ltr'><strong>AUTHOR:</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1323 391 2047 533; x_wconf 77' lang='lat' dir='ltr'>Kottmann‚</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 463 584 1271 707; baseline 0 -2"><span class='ocrx_word' id='word_1_3' title='bbox 463 584 1271 707; x_wconf 79' lang='lat' dir='ltr'>Maximilian</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 463 1186 2268 1509">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 463 1186 2268 1509">
+     <span class='ocr_line' id='line_1_3' title="bbox 465 1186 2226 1309; baseline 0.001 -4"><span class='ocrx_word' id='word_1_4' title='bbox 465 1189 977 1307; x_wconf 89' lang='lat' dir='ltr'>TITLE:</span> <span class='ocrx_word' id='word_1_5' title='bbox 1080 1190 1276 1308; x_wconf 80' lang='lat' dir='ltr'>De</span> <span class='ocrx_word' id='word_1_6' title='bbox 1329 1186 2041 1309; x_wconf 77' lang='lat' dir='ltr'>elocutione</span> <span class='ocrx_word' id='word_1_7' title='bbox 2091 1189 2226 1306; x_wconf 92' lang='lat' dir='ltr'>L.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 463 1383 2268 1509; baseline -0.002 0"><span class='ocrx_word' id='word_1_8' title='bbox 463 1383 793 1509; x_wconf 88' lang='lat' dir='ltr'>Junii</span> <span class='ocrx_word' id='word_1_9' title='bbox 844 1384 1472 1508; x_wconf 80' lang='lat' dir='ltr'>Moderati</span> <span class='ocrx_word' id='word_1_10' title='bbox 1526 1383 2268 1509; x_wconf 77' lang='lat' dir='ltr'>Coumellae</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 461 1985 1736 2110">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 461 1985 1736 2110">
+     <span class='ocr_line' id='line_1_5' title="bbox 461 1985 1736 2110; baseline -0.001 -3"><span class='ocrx_word' id='word_1_11' title='bbox 461 1988 1045 2110; x_wconf 85' lang='lat' dir='ltr'><strong>PLACE:</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1148 1985 1736 2109; x_wconf 81' lang='lat' dir='ltr'>Rottweil</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 459 2589 1389 2712">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 459 2589 1389 2712">
+     <span class='ocr_line' id='line_1_6' title="bbox 459 2589 1389 2712; baseline 0 -2"><span class='ocrx_word' id='word_1_13' title='bbox 459 2590 956 2712; x_wconf 82' lang='lat' dir='ltr'>DATE:</span> <span class='ocrx_word' id='word_1_14' title='bbox 1078 2589 1389 2711; x_wconf 83' lang='lat'>1903</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 3004 3862">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 3004 3862">
+     <span class='ocr_line' id='line_1_7' title="bbox 0 0 3004 3862; baseline 0 6"><span class='ocrx_word' id='word_1_15' title='bbox 0 0 3004 3862; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
